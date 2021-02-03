@@ -6,8 +6,7 @@
                 <div id="mySidepanel" class="sidepanel">
                     <a href="javascript:void(0)" class="closebtn" onclick="closeNav('-1')">×</a>
                     <div class="nav flex-column nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
-                        <a class="nav-link active" onclick="closeNav( 'Dean JNMC')" id="jnmc-tab" data-toggle="pill" href="#jnmc" role="tab" aria-controls="jnmc" aria-selected="true" aria-expanded="true">Dean, JNMC</a>
-<a class="nav-link click-tabtop" onclick="closeNav( 'Details of Teaching Staff')" id="v-board-tab" data-toggle="pill" href="#v-board" role="tab" aria-controls="v-board" aria-selected="false" aria-expanded="false">Details of Teaching Staff</a>
+                        <a class="nav-link active" onclick="closeNav( 'Dean JNMC')" id="jnmc-tab" data-toggle="pill" href="#jnmc" role="tab" aria-controls="jnmc" aria-selected="true" aria-expanded="true">Dean, JNMC</a><a class="nav-link click-tabtop" onclick="closeNav( 'Details of Teaching Staff')" id="v-board-tab" data-toggle="pill" href="#v-board" role="tab" aria-controls="v-board" aria-selected="false" aria-expanded="false">Details of Teaching Staff</a>
                         <a class="nav-link click-tabtop" onclick="closeNav( 'Details of Non-Teaching Staff')" id="v-planning-tab" data-toggle="pill" href="#v-planning" role="tab" aria-controls="v-planning" aria-selected="false" aria-expanded="true">Details of Non-Teaching Staff </a>
                         <a class="nav-link click-tabtop" onclick="closeNav( 'Details of the Sanctioned intake capacity of various courses UG and PG by MCI')" id="v-quality-tab" data-toggle="pill" href="#v-quality" role="tab" aria-controls="v-quality" aria-selected="false">Details of the Sanctioned intake capacity of various courses UG and PG by MCI </a>
                         <a class="nav-link click-tabtop" onclick="closeNav( 'List of students admitted merit-wise category-wise (UG &amp; PG) for the current and last year')" id="v-list_of_students-tab" data-toggle="pill" href="#v-list_of_students" role="tab" aria-controls="v-list_of_students" aria-selected="false">List of students admitted merit-wise category-wise (UG &amp; PG) for the current and last year</a>
@@ -27,35 +26,31 @@
             <div class="col-lg-9 navinfo-rightside">
                 <div class="tab-content" id="v-pills-tabContent">
                     <div class="tab-pane fade show active in" id="jnmc" role="tabpanel" aria-labelledby="jnmc-tab" aria-expanded="true">
-
-<div class="card  my-5">
-    <div class="card-header bg-warning"><b>Dr. Abhay Mudey, Dean JNMC</b></div>
-    <div class="card-body row">
-        <div class="col-lg-2 col-md-3 col-sm-4">
-            <div class="text-center mb-3">
-                <img src="https://newsite.dmimsu.edu.in/uploads/topics/16062923506637.png" class="img-fluid rounded-lg">
-            </div>
-        </div>
-        <div class="col-lg-10 col-md-9 col-sm-8">
-            <p><b>Qualification:</b> MBBS, MD(P.S.M.), DPH, Ph.D.</p>
-            <p><b>DOB:</b> 04/04/1967</p>
-            <p><b>Contact Details:</b> Resi. Address: Meghdootam Apartment, Build No.4, Flat No.1, DMIMS Campus, Sawangi (Meghe), Wardha-442 004, India</p>
-            <p><b>Office:</b> 07152 – 287701 TO 06</p>
-            <p><b>Mobile:</b> +919822367963</p>
-            <p><b>Email:</b> deanjnmc@yahoo.com</p>
-        </div>
-    </div>
-</div>
-
-
-               
-                    </div>
-
-                     <div class="tab-pane fade show in" id="v-board" role="tabpanel" aria-labelledby="v-board-tab">
+                        <div class="card  my-5">
+                            <div class="card-header bg-warning"><b>Dr. Abhay Mudey, Dean JNMC</b></div>
+                                <div class="card-body row">
+                                    <div class="col-lg-2 col-md-3 col-sm-4">
+                                        <div class="text-center mb-3">
+                                             <img src="https://newsite.dmimsu.edu.in/uploads/topics/16062923506637.png" class="img-fluid rounded-lg">
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-10 col-md-9 col-sm-8">
+                                         <p><b>Qualification:</b> MBBS, MD(P.S.M.), DPH, Ph.D.</p>
+                                         <p><b>DOB:</b> 04/04/1967</p>
+                                         <p><b>Contact Details:</b> Resi. Address: Meghdootam Apartment, Build No.4, Flat No.1, DMIMS Campus, Sawangi (Meghe), Wardha-442 004, India</p>
+                                         <p><b>Office:</b> 07152 – 287701 TO 06</p>
+                                         <p><b>Mobile:</b> +919822367963</p>
+                                         <p><b>Email:</b> deanjnmc@yahoo.com</p>
+                                    </div>
+                               </div>
+                            </div>
+                        </div>
+                    </div>>
+                    <div class="tab-pane fade show in" id="v-board" role="tabpanel" aria-labelledby="v-board-tab">
                         <h2 style="text-align: left; margin: 0in; line-height: normal; ">Details of Teaching Staff </h2>
                         <br>
                         <div class="table-responsive">
-                            19<table class="table table-bordered">
+                            <table class="table table-bordered">
                                 <thead class="bg-warning">
                                     <tr>
                                         <th>S.N.</th>
@@ -3592,7 +3587,7 @@
                                         <td>26</td>
                                         <td></td>
                                         <td>100%</td>
-                                    </tr>
+                                   </tr>
 
                                     <tr class="bg-warning">
                                         <th>Z.</th>
@@ -3941,469 +3936,468 @@
                                 </tfoot>
                             </table>
                         </div>
-
                     </div>
                     <div class="tab-pane fade" id="v-planning" role="tabpanel" aria-labelledby="v-planning-tab">
                         <h2 style="text-align: left; margin: 0in; line-height: normal;">Details of Non-Teaching Staff</h2>
                         <br>
                         <div class="table-responsive">
                                 <table class="table table-bordered">
-                                <tbody>
-                     <tr class="bg-warning">
-                     <th colspan="7">Category of the staff</th>
-                     <th colspan="4" style="text-align: center;">Nos.</th>
-                     </tr>
-                    <tr>
-                     <td colspan="7">A. O.</td>
-                     <td colspan="4" style="text-align: center;">2</td>      
-                    </tr>   
-                    <tr>
-                     <td colspan="7">AC Tech.</td>
-                     <td colspan="4" style="text-align: center;">1</td>      
-                    </tr>
-                    <tr>
-                     <td colspan="7">AMS</td>
-                     <td colspan="4" style="text-align: center;">1</td>      
-                    </tr>  
-                    <tr>
-                     <td colspan="7">Animal Attendants</td>
-                     <td colspan="4" style="text-align: center;">2</td>      
-                    </tr>
-                    <tr>
-                     <td colspan="7">Artist Modellers</td>
-                     <td colspan="4" style="text-align: center;">2</td>      
-                    </tr>
-                    <tr>
-                     <td colspan="7">Asst. A. O.</td>
-                     <td colspan="4" style="text-align: center;">4</td>      
-                    </tr>  
-                    <tr>
-                     <td colspan="7">Asst. Accountant</td>
-                     <td colspan="4" style="text-align: center;">6</td>      
-                    </tr>  
-                    <tr>
-                     <td colspan="7">Asst. C.T. Scane Tech.</td>
-                     <td colspan="4" style="text-align: center;">1</td>      
-                    </tr>  
-                    <tr>
-                     <td colspan="7">Asst. HardwareEngg.</td>
-                     <td colspan="4" style="text-align: center;">7</td>      
-                    </tr> 
-                    <tr>
-                     <td colspan="7">Asst. MRD Officer</td>
-                     <td colspan="4" style="text-align: center;">1</td>      
-                    </tr> 
-                    <tr>
-                     <td colspan="7">Asst. MRI Tech.</td>
-                     <td colspan="4" style="text-align: center;">1</td>      
-                    </tr> 
-                    <tr>
-                     <td colspan="7">Asst. Nursing Supdt.</td>
-                     <td colspan="4" style="text-align: center;">14</td>      
-                    </tr> 
-                    <tr>
-                     <td colspan="7">Asst. Pharmacist</td>
-                     <td colspan="4" style="text-align: center;">2</td>      
-                    </tr> 
-                    <tr>
-                     <td colspan="7">Asst. Plumber</td>
-                     <td colspan="4" style="text-align: center;">1</td>      
-                    </tr> 
-                    <tr>
-                     <td colspan="7">Asst. Purchase Officer</td>
-                     <td colspan="4" style="text-align: center;">1</td>      
-                    </tr>
-                    <tr>
-                     <td colspan="7">Asst. Wireman</td>
-                     <td colspan="4" style="text-align: center;">2</td>      
-                    </tr>
-                    <tr>
-                     <td colspan="7">Attendant</td>
-                     <td colspan="4" style="text-align: center;">24</td>      
-                    </tr>
-                    <tr>
-                     <td colspan="7">Audiometry Technician</td>
-                     <td colspan="4" style="text-align: center;">1</td>      
-                    </tr>
-                    <tr>
-                     <td colspan="7">Audiovisual Technician</td>
-                     <td colspan="4" style="text-align: center;">2</td>      
-                    </tr>
-                    <tr>
-                     <td colspan="7">Biomedial Engineer</td>
-                     <td colspan="4" style="text-align: center;">7</td>      
-                    </tr>
-                    <tr>
-                     <td colspan="7">Black Smith</td>
-                     <td colspan="4" style="text-align: center;">1</td>      
-                    </tr>
-                    <tr>
-                     <td colspan="7">C.N.S.</td>
-                     <td colspan="4" style="text-align: center;">1</td>      
-                    </tr>
-                    <tr>
-                     <td colspan="7">C.T. Scane Tech.</td>
-                     <td colspan="4" style="text-align: center;">1</td>      
-                    </tr>
-                    <tr>
-                     <td colspan="7">CAO</td>
-                     <td colspan="4" style="text-align: center;">2</td>      
-                    </tr>
-                    <tr>
-                     <td colspan="7">Care Taker / Security</td>
-                     <td colspan="4" style="text-align: center;">38</td>      
-                    </tr>
-                    <tr>
-                     <td colspan="7">Carpenter</td>
-                     <td colspan="4" style="text-align: center;">4</td>      
-                    </tr>
-                    <tr>
-                     <td colspan="7">Cashier</td>
-                     <td colspan="4" style="text-align: center;">7</td>      
-                    </tr>
-                   <tr>
-                     <td colspan="7">Casualty Medical Officer</td>
-                     <td colspan="4" style="text-align: center;">4</td>      
-                    </tr>
-                   <tr>
-                     <td colspan="7">Cataloguer</td>
-                     <td colspan="4" style="text-align: center;">1</td>      
-                    </tr>
-                   <tr>
-                     <td colspan="7">Cath Lab. Tech.</td>
-                     <td colspan="4" style="text-align: center;">3</td>      
-                    </tr>
-                   <tr>
-                     <td colspan="7">Child Psycholigist</td>
-                     <td colspan="4" style="text-align: center;">2</td>      
-                    </tr>
-                   <tr>
-                     <td colspan="7">Clerk</td>
-                     <td colspan="4" style="text-align: center;">113</td>      
-                    </tr>
-                   <tr>
-                     <td colspan="7">Clinical Social worker</td>
-                     <td colspan="4" style="text-align: center;">4</td>      
-                    </tr>
-                   <tr>
-                     <td colspan="7">Coding Clerk</td>
-                     <td colspan="4" style="text-align: center;">4</td>      
-                    </tr>
-                   <tr>
-                     <td colspan="7">Computer Programmer</td>
-                     <td colspan="4" style="text-align: center;">1</td>      
-                    </tr>
-                   <tr>
-                     <td colspan="7">Cook</td>
-                     <td colspan="4" style="text-align: center;">1</td>      
-                    </tr>
-                   <tr>
-                     <td colspan="7">CSSD Manager</td>
-                     <td colspan="4" style="text-align: center;">1</td>      
-                    </tr>
-                   <tr>
-                     <td colspan="7">Dafatari</td>
-                     <td colspan="4" style="text-align: center;">6</td>      
-                    </tr>
-                   <tr>
-                     <td colspan="7">Dark room Assistant</td>
-                     <td colspan="4" style="text-align: center;">5</td>      
-                    </tr>
-                   <tr>
-                     <td colspan="7">Deputy Librarian</td>
-                     <td colspan="4" style="text-align: center;">1</td>      
-                    </tr>
-                   <tr>
-                     <td colspan="7">Dietician</td>
-                     <td colspan="4" style="text-align: center;">4</td>      
-                    </tr>
-                   <tr>
-                     <td colspan="7">Dilysis Tech.</td>
-                     <td colspan="4" style="text-align: center;">6</td>      
-                    </tr>
-                   <tr>
-                     <td colspan="7">Director (S.I.&amp; I.R.)</td>
-                     <td colspan="4" style="text-align: center;">1</td>      
-                    </tr>
-                   <tr>
-                     <td colspan="7">Dissection Hall Attendants</td>
-                     <td colspan="4" style="text-align: center;">4</td>      
-                    </tr>
-                   <tr>
-                     <td colspan="7">Documentalist</td>
-                     <td colspan="4" style="text-align: center;">1</td>      
-                    </tr>
-                   <tr>
-                     <td colspan="7">Driver</td>
-                     <td colspan="4" style="text-align: center;">20</td>      
-                    </tr>
-                   <tr>
-                     <td colspan="7">Dy. Nursing Supdt.</td>
-                     <td colspan="4" style="text-align: center;">6</td>      
-                    </tr>
-                   <tr>
-                     <td colspan="7">E.C.G. Technician</td>
-                     <td colspan="4" style="text-align: center;">4</td>      
-                    </tr>
-                   <tr>
-                     <td colspan="7">Electric Engineer</td>
-                     <td colspan="4" style="text-align: center;">2</td>      
-                    </tr>
-                   <tr>
-                     <td colspan="7">Electrician</td>
-                     <td colspan="4" style="text-align: center;">1</td>      
-                    </tr>
-                   <tr>
-                     <td colspan="7">Endoscopy Tech.</td>
-                     <td colspan="4" style="text-align: center;">1</td>      
-                    </tr>
-                   <tr>
-                     <td colspan="7">Engg.Superintendent</td>
-                     <td colspan="4" style="text-align: center;">1</td>      
-                    </tr>
-                   <tr>
-                     <td colspan="7">EPBX Operator</td>
-                     <td colspan="4" style="text-align: center;">5</td>      
-                    </tr>
-                   <tr>
-                     <td colspan="7">Guard</td>
-                     <td colspan="4" style="text-align: center;">10</td>      
-                    </tr>
-                   <tr>
-                     <td colspan="7">H. R. officer</td>
-                     <td colspan="4" style="text-align: center;">1</td>      
-                    </tr>
-                   <tr>
-                     <td colspan="7">Head Attendant</td>
-                     <td colspan="4" style="text-align: center;">2</td>      
-                    </tr>
-                   <tr>
-                     <td colspan="7">Health Educator</td>
-                     <td colspan="4" style="text-align: center;">5</td>      
-                    </tr>
-                   <tr>
-                     <td colspan="7">Health Inspectors</td>
-                     <td colspan="4" style="text-align: center;">6</td>      
-                    </tr>
-                   <tr>
-                     <td colspan="7">Health Trainer</td>
-                     <td colspan="4" style="text-align: center;">4</td>      
-                    </tr>
-                   <tr>
-                     <td colspan="7">Jr. Electrician</td>
-                     <td colspan="4" style="text-align: center;">1</td>      
-                    </tr>
-                   <tr>
-                     <td colspan="7">Laboratory Attendant</td>
-                     <td colspan="4" style="text-align: center;">36</td>      
-                    </tr>
-                   <tr>
-                     <td colspan="7">Librarian</td>
-                     <td colspan="4" style="text-align: center;">1</td>      
-                    </tr>
-                   <tr>
-                     <td colspan="7">Library Assistant</td>
-                     <td colspan="4" style="text-align: center;">4</td>      
-                    </tr>
-                   <tr>
-                     <td colspan="7">Lift Man</td>
-                     <td colspan="4" style="text-align: center;">1</td>      
-                    </tr>
-                   <tr>
-                     <td colspan="7">Maneger(H.R)</td>
-                     <td colspan="4" style="text-align: center;">1</td>      
-                    </tr>
-                   <tr>
-                     <td colspan="7">Marketing Exacutive</td>
-                     <td colspan="4" style="text-align: center;">4</td>      
-                    </tr>
-                   <tr>
-                     <td colspan="7">Matron</td>
-                     <td colspan="4" style="text-align: center;">2</td>      
-                    </tr>
-                   <tr>
-                     <td colspan="7">Medical Record Officer</td>
-                     <td colspan="4" style="text-align: center;">1</td>      
-                    </tr>
-                   <tr>
-                     <td colspan="7">Medical Social Worker</td>
-                     <td colspan="4" style="text-align: center;">9</td>      
-                    </tr>
-                   <tr>
-                     <td colspan="7">MRI Tech.</td>
-                     <td colspan="4" style="text-align: center;">3</td>      
-                    </tr>
-                   <tr>
-                     <td colspan="7">MSW</td>
-                     <td colspan="4" style="text-align: center;">24</td>      
-                    </tr>
-                   <tr>
-                     <td colspan="7">Network Technician</td>
-                     <td colspan="4" style="text-align: center;">1</td>      
-                    </tr>
-                   <tr>
-                     <td colspan="7">Nursing Sisters(Sister incharges)</td>
-                     <td colspan="4" style="text-align: center;">324</td>      
-                    </tr>
-                   <tr>
-                     <td colspan="7">Nursing Supdt.</td>
-                     <td colspan="4" style="text-align: center;">7</td>      
-                    </tr>
-                   <tr>
-                     <td colspan="7">O. T. Attendant</td>
-                     <td colspan="4" style="text-align: center;">15</td>      
-                    </tr>
-                   <tr>
-                     <td colspan="7">O. T. Tech.</td>
-                     <td colspan="4" style="text-align: center;">9</td>      
-                    </tr>
-                   <tr>
-                     <td colspan="7">O.S.D.</td>
-                     <td colspan="4" style="text-align: center;">1</td>      
-                    </tr>
-                   <tr>
-                     <td colspan="7">Occupational Therapist</td>
-                     <td colspan="4" style="text-align: center;">2</td>      
-                    </tr>
-                   <tr>
-                     <td colspan="7">Opth. Teach.</td>
-                     <td colspan="4" style="text-align: center;">1</td>      
-                    </tr>
-                   <tr>
-                     <td colspan="7">P.R.A.</td>
-                     <td colspan="4" style="text-align: center;">1</td>      
-                    </tr>
-                   <tr>
-                     <td colspan="7">Peon</td>
-                     <td colspan="4" style="text-align: center;">15</td>      
-                    </tr>
-                   <tr>
-                     <td colspan="7">Perfusionist</td>
-                     <td colspan="4" style="text-align: center;">2</td>      
-                    </tr>
-                   <tr>
-                     <td colspan="7">Pharmacist</td>
-                     <td colspan="4" style="text-align: center;">27</td>      
-                    </tr>
-                   <tr>
-                     <td colspan="7">Photographer</td>
-                     <td colspan="4" style="text-align: center;">2</td>      
-                    </tr>
-                   <tr>
-                     <td colspan="7">Plumber</td>
-                     <td colspan="4" style="text-align: center;">1</td>      
-                    </tr>
-                   <tr>
-                     <td colspan="7">Psychiatric Social Workers</td>
-                     <td colspan="4" style="text-align: center;">2</td>      
-                    </tr>
-                   <tr>
-                     <td colspan="7">Psychologist</td>
-                     <td colspan="4" style="text-align: center;">1</td>      
-                    </tr>
-                   <tr>
-                     <td colspan="7">Public Health Nurse</td>
-                     <td colspan="4" style="text-align: center;">3</td>      
-                    </tr>
-                   <tr>
-                     <td colspan="7">Purchase Officer</td>
-                     <td colspan="4" style="text-align: center;">1</td>      
-                    </tr>
-                   <tr>
-                     <td colspan="7">Record Clerk</td>
-                     <td colspan="4" style="text-align: center;">23</td>      
-                    </tr>
-                   <tr>
-                     <td colspan="7">Rediographic Technicians</td>
-                     <td colspan="4" style="text-align: center;">8</td>      
-                    </tr>
-                   <tr>
-                     <td colspan="7">Refractionist</td>
-                     <td colspan="4" style="text-align: center;">1</td>      
-                    </tr>
-                   <tr>
-                     <td colspan="7">RMO</td>
-                     <td colspan="4" style="text-align: center;">16</td>      
-                    </tr>
-                   <tr>
-                     <td colspan="7">Section Incharge (Estt)</td>
-                     <td colspan="4" style="text-align: center;">1</td>      
-                    </tr>
-                   <tr>
-                     <td colspan="7">Security Officer</td>
-                     <td colspan="4" style="text-align: center;">1</td>      
-                    </tr>
-                   <tr>
-                     <td colspan="7">Senior Technician (Engg.Astt.)</td>
-                     <td colspan="4" style="text-align: center;">4</td>      
-                    </tr>
-                   <tr>
-                     <td colspan="7">Social Worker</td>
-                     <td colspan="4" style="text-align: center;">6</td>      
-                    </tr>
-                   <tr>
-                     <td colspan="7">Software Engineer</td>
-                     <td colspan="4" style="text-align: center;">3</td>      
-                    </tr>
-                   <tr>
-                     <td colspan="7">Speech Therapist</td>
-                     <td colspan="4" style="text-align: center;">1</td>      
-                    </tr>
-                   <tr>
-                     <td colspan="7">Sport Officer</td>
-                     <td colspan="4" style="text-align: center;">1</td>      
-                    </tr>
-                   <tr>
-                     <td colspan="7">Sr. Account Officer</td>
-                     <td colspan="4" style="text-align: center;">1</td>      
-                    </tr>
-                   <tr>
-                     <td colspan="7">Sr. Purchase Manager</td>
-                     <td colspan="4" style="text-align: center;">1</td>      
-                    </tr>
-                   <tr>
-                     <td colspan="7">Sr.Clerk (store)</td>
-                     <td colspan="4" style="text-align: center;">1</td>      
-                    </tr>
-                   <tr>
-                     <td colspan="7">Staff Nurse</td>
-                     <td colspan="4" style="text-align: center;">396</td>      
-                    </tr>
-                   <tr>
-                     <td colspan="7">Statistician</td>
-                     <td colspan="4" style="text-align: center;">1</td>      
-                    </tr>
-                   <tr>
-                     <td colspan="7">Steno cum Computer Operator</td>
-                     <td colspan="4" style="text-align: center;">2</td>      
-                    </tr>
-                   <tr>
-                     <td colspan="7">Steno Typist</td>
-                     <td colspan="4" style="text-align: center;">18</td>      
-                    </tr>
-                   <tr>
-                     <td colspan="7">Store Keeper</td>
-                     <td colspan="4" style="text-align: center;">20</td>      
-                    </tr>
-                   <tr>
-                     <td colspan="7">Store Purchase Officer</td>
-                     <td colspan="4" style="text-align: center;">1</td>      
-                    </tr>
-                   <tr>
-                     <td colspan="7">Store-Keeper cum clerk cum Computer Operator</td>
-                     <td colspan="4" style="text-align: center;">15</td>      
-                    </tr>
-                   <tr>
-                     <td colspan="7">Sweepers</td>
-                     <td colspan="4" style="text-align: center;">29</td>      
-                    </tr>
-                   <tr>
-                     <td colspan="7">T.B. &amp; Chest Diseases Health Visitors</td>
-                     <td colspan="4" style="text-align: center;">2</td>      
-                    </tr>
-                   <tr>
-                     <td colspan="7">Tailor</td>
-                     <td colspan="4" style="text-align: center;">3</td>      
+                                    <tbody>
+                                        <tr class="bg-warning">
+                                              <th colspan="7">Category of the staff</th>
+                                              <th colspan="4" style="text-align: center;">Nos.</th>
+                                        </tr>
+                                        <tr>
+                                             <td colspan="7">A. O.</td>
+                                             <td colspan="4" style="text-align: center;">2</td>
+                                        </tr>
+                                        <tr>
+                                                <td colspan="7">AC Tech.</td>
+                                                <td colspan="4" style="text-align: center;">1</td>
+                                        </tr>
+                                        <tr>
+                                                <td colspan="7">AMS</td>
+                                                <td colspan="4" style="text-align: center;">1</td>
+                                        </tr>
+                                        <tr>
+                                                <td colspan="7">Animal Attendants</td>
+                                                <td colspan="4" style="text-align: center;">2</td>
+                                        </tr>
+                                        <tr>
+                                                <td colspan="7">Artist Modellers</td>
+                                                <td colspan="4" style="text-align: center;">2</td>
+                                        </tr>
+                                        <tr>
+                                                <td colspan="7">Asst. A. O.</td>
+                                                <td colspan="4" style="text-align: center;">4</td>
+                                        </tr>
+                                        <tr>
+                                                <td colspan="7">Asst. Accountant</td>
+                                                <td colspan="4" style="text-align: center;">6</td>
+                                        </tr>
+                                        <tr>
+                                                <td colspan="7">Asst. C.T. Scane Tech.</td>
+                                                <td colspan="4" style="text-align: center;">1</td>
+                                        </tr>
+                                        <tr>
+                                                <td colspan="7">Asst. HardwareEngg.</td>
+                                                <td colspan="4" style="text-align: center;">7</td>
+                                        </tr>
+                                        <tr>
+                                                 <td colspan="7">Asst. MRD Officer</td>
+                                                 <td colspan="4" style="text-align: center;">1</td>
+                                        </tr>
+                                        <tr>
+                                                 <td colspan="7">Asst. MRI Tech.</td>
+                                                 <td colspan="4" style="text-align: center;">1</td>
+                                        </tr>
+                                        <tr>
+                                                  <td colspan="7">Asst. Nursing Supdt.</td>
+                                                  <td colspan="4" style="text-align: center;">14</td>
+                                        </tr>
+                                        <tr>
+                                                   <td colspan="7">Asst. Pharmacist</td>
+                                                   <td colspan="4" style="text-align: center;">2</td>
+                                        </tr>
+                                        <tr>
+                                                   <td colspan="7">Asst. Plumber</td>
+                                                   <td colspan="4" style="text-align: center;">1</td>
+                                        </tr>
+                                        <tr>
+                                                   <td colspan="7">Asst. Purchase Officer</td>
+                                                   <td colspan="4" style="text-align: center;">1</td>
+                                        </tr>
+                                        <tr>
+                                                   <td colspan="7">Asst. Wireman</td>
+                                                   <td colspan="4" style="text-align: center;">2</td>
+                                        </tr>
+                                        <tr>
+                                                   <td colspan="7">Attendant</td>
+                                                   <td colspan="4" style="text-align: center;">24</td>
+                                        </tr>
+                                        <tr>
+                                                   <td colspan="7">Audiometry Technician</td>
+                                                   <td colspan="4" style="text-align: center;">1</td>
+                                        </tr>
+                                        <tr>
+                                                   <td colspan="7">Audiovisual Technician</td>
+                                                   <td colspan="4" style="text-align: center;">2</td>
+                                        </tr>
+                                        <tr>
+                                                   <td colspan="7">Biomedial Engineer</td>
+                                                   <td colspan="4" style="text-align: center;">7</td>
+                                        </tr>
+                                        <tr>
+                                                   <td colspan="7">Black Smith</td>
+                                                   <td colspan="4" style="text-align: center;">1</td>
+                                        </tr>
+                                        <tr>
+                                                   <td colspan="7">C.N.S.</td>
+                                                   <td colspan="4" style="text-align: center;">1</td>
+                                        </tr>
+                                        <tr>
+                                                   <td colspan="7">C.T. Scane Tech.</td>
+                                                   <td colspan="4" style="text-align: center;">1</td>
+                                        </tr>
+                                        <tr>
+                                                    <td colspan="7">CAO</td>
+                                                    <td colspan="4" style="text-align: center;">2</td>
+                                       </tr>
+                                       <tr>
+                                                    <td colspan="7">Care Taker / Security</td>
+                                                    <td colspan="4" style="text-align: center;">38</td>
+                                       </tr>
+                                       <tr>
+                                                    <td colspan="7">Carpenter</td>
+                                                    <td colspan="4" style="text-align: center;">4</td>
+                                       </tr>
+                                       <tr>
+                                                    <td colspan="7">Cashier</td>
+                                                    <td colspan="4" style="text-align: center;">7</td>
+                                       </tr>
+                                       <tr>
+                                                    <td colspan="7">Casualty Medical Officer</td>
+                                                    <td colspan="4" style="text-align: center;">4</td>
+                                       </tr>
+                                       <tr>
+                                                    <td colspan="7">Cataloguer</td>
+                                                    <td colspan="4" style="text-align: center;">1</td>
+                                       </tr>
+                                       <tr>
+                                                    <td colspan="7">Cath Lab. Tech.</td>
+                                                    <td colspan="4" style="text-align: center;">3</td>
+                                       </tr>
+                                       <tr>
+                                                    <td colspan="7">Child Psycholigist</td>
+                                                    <td colspan="4" style="text-align: center;">2</td>
+                                       </tr>
+                                        <tr>
+                                                    <td colspan="7">Clerk</td>
+                                                     <td colspan="4" style="text-align: center;">113</td>
+                                        </tr>
+                                        <tr>
+                                                       <td colspan="7">Clinical Social worker</td>
+                                                       <td colspan="4" style="text-align: center;">4</td>
+                                       </tr>
+                                       <tr>
+                                                     <td colspan="7">Coding Clerk</td>
+                                                     <td colspan="4" style="text-align: center;">4</td>
+                                       </tr>
+                                       <tr>
+                                                     <td colspan="7">Computer Programmer</td>
+                                                     <td colspan="4" style="text-align: center;">1</td>
+                                       </tr>
+                                       <tr>
+                                                    <td colspan="7">Cook</td>
+                                                    <td colspan="4" style="text-align: center;">1</td>
+                                       </tr>
+                                       <tr>
+                                                    <td colspan="7">CSSD Manager</td>
+                                                    <td colspan="4" style="text-align: center;">1</td>
+                                       </tr>
+                                       <tr>
+                                                   <td colspan="7">Dafatari</td>
+                                                   <td colspan="4" style="text-align: center;">6</td>
+                                       </tr>
+                                       <tr>
+                                                   <td colspan="7">Dark room Assistant</td>
+                                                   <td colspan="4" style="text-align: center;">5</td>
+                                       </tr>
+                                       <tr>
+                                                    <td colspan="7">Deputy Librarian</td>
+                                                    <td colspan="4" style="text-align: center;">1</td>
+                                       </tr>
+                                       <tr>
+                                                    <td colspan="7">Dietician</td>
+                                                    <td colspan="4" style="text-align: center;">4</td>
+                                       </tr>
+                                       <tr>
+                                                    <td colspan="7">Dilysis Tech.</td>
+                                                    <td colspan="4" style="text-align: center;">6</td>
+                                       </tr>
+                                       <tr>
+                                                    <td colspan="7">Director (S.I.&amp; I.R.)</td>
+                                                    <td colspan="4" style="text-align: center;">1</td>
+                                       </tr>
+                                       <tr>
+                                                    <td colspan="7">Dissection Hall Attendants</td>
+                                                    <td colspan="4" style="text-align: center;">4</td>
+                                      </tr>
+                                      <tr>
+                                                   <td colspan="7">Documentalist</td>
+                                                   <td colspan="4" style="text-align: center;">1</td>
+                                      </tr>
+                                      <tr>
+                                                   <td colspan="7">Driver</td>
+                                                   <td colspan="4" style="text-align: center;">20</td>
+                                      </tr>
+                                      <tr>
+                                                   <td colspan="7">Dy. Nursing Supdt.</td>
+                                                   <td colspan="4" style="text-align: center;">6</td>
+                                      </tr>
+                                      <tr>
+                                                    <td colspan="7">E.C.G. Technician</td>
+                                                    <td colspan="4" style="text-align: center;">4</td>
+                                      </tr>
+                                      <tr>
+                                                   <td colspan="7">Electric Engineer</td>
+                                                   <td colspan="4" style="text-align: center;">2</td>
+                                      </tr>
+                                      <tr>
+                                                   <td colspan="7">Electrician</td>
+                                                   <td colspan="4" style="text-align: center;">1</td>
+                                      </tr>
+                                      <tr>
+                                                   <td colspan="7">Endoscopy Tech.</td>
+                                                   <td colspan="4" style="text-align: center;">1</td>
+                                     </tr>
+                                      <tr>
+                                                   <td colspan="7">Engg.Superintendent</td>
+                                                   <td colspan="4" style="text-align: center;">1</td>
+                                      </tr>
+                                      <tr>
+                                                   <td colspan="7">EPBX Operator</td>
+                                                   <td colspan="4" style="text-align: center;">5</td>
+                                      </tr>
+                                      <tr>
+                                                    <td colspan="7">Guard</td>
+                                                    <td colspan="4" style="text-align: center;">10</td>
+                                      </tr>
+                                       <tr>
+                                                     <td colspan="7">H. R. officer</td>
+                                                     <td colspan="4" style="text-align: center;">1</td>
+                                      </tr>
+                                      <tr>
+                                                     <td colspan="7">Head Attendant</td>
+                                                     <td colspan="4" style="text-align: center;">2</td>
+                                      </tr>
+                                      <tr>
+                                                    <td colspan="7">Health Educator</td>
+                                                    <td colspan="4" style="text-align: center;">5</td>
+                                      </tr>
+                                      <tr>
+                                                    <td colspan="7">Health Inspectors</td>
+                                                    <td colspan="4" style="text-align: center;">6</td>
+                                      </tr>
+                                      <tr>
+                                                    <td colspan="7">Health Trainer</td>
+                                                    <td colspan="4" style="text-align: center;">4</td>
+                                      </tr>
+                                      <tr>
+                                                    <td colspan="7">Jr. Electrician</td>
+                                                    <td colspan="4" style="text-align: center;">1</td>
+                                     </tr>
+                                      <tr>
+                                                    <td colspan="7">Laboratory Attendant</td>
+                                                    <td colspan="4" style="text-align: center;">36</td>
+                                      </tr>
+                                      <tr>
+                                                   <td colspan="7">Librarian</td>
+                                                   <td colspan="4" style="text-align: center;">1</td>
+                                      </tr>
+                                      <tr>
+                                                   <td colspan="7">Library Assistant</td>
+                                                   <td colspan="4" style="text-align: center;">4</td>
+                                      </tr>
+                                      <tr>
+                                                   <td colspan="7">Lift Man</td>
+                                                   <td colspan="4" style="text-align: center;">1</td>
+                                      </tr>
+                                      <tr>
+                                                   <td colspan="7">Maneger(H.R)</td>
+                                                   <td colspan="4" style="text-align: center;">1</td>
+                                      </tr>
+                                      <tr>
+                                                   <td colspan="7">Marketing Exacutive</td>
+                                                   <td colspan="4" style="text-align: center;">4</td>
+                                      </tr>
+                                      <tr>
+                                                   <td colspan="7">Matron</td>
+                                                   <td colspan="4" style="text-align: center;">2</td>
+                                      </tr>
+                                      <tr>
+                                                   <td colspan="7">Medical Record Officer</td>
+                                                   <td colspan="4" style="text-align: center;">1</td>
+                                      </tr>
+                                      <tr>
+                                                   <td colspan="7">Medical Social Worker</td>
+                                                   <td colspan="4" style="text-align: center;">9</td>
+                                      </tr>
+                                      <tr>
+                                                   <td colspan="7">MRI Tech.</td>
+                                                   <td colspan="4" style="text-align: center;">3</td>
+                                      </tr>
+                                      <tr>
+                                                   <td colspan="7">MSW</td>
+                                                   <td colspan="4" style="text-align: center;">24</td>
+                                      </tr>
+                                      <tr>
+                                                   <td colspan="7">Network Technician</td>
+                                                   <td colspan="4" style="text-align: center;">1</td>
+                                      </tr>
+                                      <tr>
+                                                  <td colspan="7">Nursing Sisters(Sister incharges)</td>
+                                                  <td colspan="4" style="text-align: center;">324</td>
+                                      </tr>
+                                      <tr>
+                                                  <td colspan="7">Nursing Supdt.</td>
+                                                  <td colspan="4" style="text-align: center;">7</td>
+                                      </tr>
+                                      <tr>
+                                                  <td colspan="7">O. T. Attendant</td>
+                                                  <td colspan="4" style="text-align: center;">15</td>
+                                      </tr>
+                                      <tr>
+                                                  <td colspan="7">O. T. Tech.</td>
+                                                  <td colspan="4" style="text-align: center;">9</td>
+                                     </tr>
+                                      <tr>
+                                                  <td colspan="7">O.S.D.</td>
+                                                  <td colspan="4" style="text-align: center;">1</td>
+                                      </tr>
+                                      <tr>
+                                                  <td colspan="7">Occupational Therapist</td>
+                                                  <td colspan="4" style="text-align: center;">2</td>
+                                     </tr>
+                                     <tr>
+                                                  <td colspan="7">Opth. Teach.</td>
+                                                  <td colspan="4" style="text-align: center;">1</td>
+                                     </tr>
+                                      <tr>
+                                                  <td colspan="7">P.R.A.</td>
+                                                  <td colspan="4" style="text-align: center;">1</td>
+                                      </tr>
+                                       <tr>
+                                                  <td colspan="7">Peon</td>
+                                                  <td colspan="4" style="text-align: center;">15</td>
+                                       </tr>
+                                       <tr>
+                                                  <td colspan="7">Perfusionist</td>
+                                                  <td colspan="4" style="text-align: center;">2</td>
+                                       </tr>
+                                       <tr>
+                                                  <td colspan="7">Pharmacist</td>
+                                                  <td colspan="4" style="text-align: center;">27</td>
+                                       </tr>
+                                       <tr>
+                                                   <td colspan="7">Photographer</td>
+                                                   <td colspan="4" style="text-align: center;">2</td>
+                                       </tr>
+                                       <tr>
+                                                   <td colspan="7">Plumber</td>
+                                                   <td colspan="4" style="text-align: center;">1</td>
+                                       </tr>
+                                       <tr>
+                                                  <td colspan="7">Psychiatric Social Workers</td>
+                                                  <td colspan="4" style="text-align: center;">2</td>
+                                      </tr>
+                                      <tr>
+                                                  <td colspan="7">Psychologist</td>
+                                                  <td colspan="4" style="text-align: center;">1</td>
+                                      </tr>
+                                      <tr>
+                                                  <td colspan="7">Public Health Nurse</td>
+                                                  <td colspan="4" style="text-align: center;">3</td>
+                                      </tr>
+                                       <tr>
+                                                   <td colspan="7">Purchase Officer</td>
+                                                   <td colspan="4" style="text-align: center;">1</td>
+                                      </tr>
+                                      <tr>
+                                                  <td colspan="7">Record Clerk</td>
+                                                  <td colspan="4" style="text-align: center;">23</td>
+                                      </tr>
+                                      <tr>
+                                                 <td colspan="7">Rediographic Technicians</td>
+                                                 <td colspan="4" style="text-align: center;">8</td>
+                                      </tr>
+                                      <tr>
+                                                 <td colspan="7">Refractionist</td>
+                                                 <td colspan="4" style="text-align: center;">1</td>
+                                      </tr>
+                                      <tr>
+                                                 <td colspan="7">RMO</td>
+                                                 <td colspan="4" style="text-align: center;">16</td>
+                                      </tr>
+                                      <tr>
+                                                 <td colspan="7">Section Incharge (Estt)</td>
+                                                 <td colspan="4" style="text-align: center;">1</td>
+                                      </tr>
+                                      <tr>
+                                                 <td colspan="7">Security Officer</td>
+                                                 <td colspan="4" style="text-align: center;">1</td>
+                                      </tr>
+                                      <tr>
+                                                 <td colspan="7">Senior Technician (Engg.Astt.)</td>
+                                                 <td colspan="4" style="text-align: center;">4</td>
+                                      </tr>
+                                      <tr>
+                                                 <td colspan="7">Social Worker</td>
+                                                 <td colspan="4" style="text-align: center;">6</td>
+                                      </tr>
+                                      <tr>
+                                                 <td colspan="7">Software Engineer</td>
+                                                 <td colspan="4" style="text-align: center;">3</td>
+                                      </tr>
+                                      <tr>
+                                                 <td colspan="7">Speech Therapist</td>
+                                                 <td colspan="4" style="text-align: center;">1</td>
+                                      </tr>
+                                      <tr>
+                                                 <td colspan="7">Sport Officer</td>
+                                                 <td colspan="4" style="text-align: center;">1</td>
+                                      </tr>
+                                      <tr>
+                                                 <td colspan="7">Sr. Account Officer</td>
+                                                 <td colspan="4" style="text-align: center;">1</td>
+                                      </tr>
+                                       <tr>
+                                                 <td colspan="7">Sr. Purchase Manager</td>
+                                                 <td colspan="4" style="text-align: center;">1</td>
+                                      </tr>
+                                      <tr>
+                                                  <td colspan="7">Sr.Clerk (store)</td>
+                                                  <td colspan="4" style="text-align: center;">1</td>
+                                      </tr>
+                                      <tr>
+                                                  <td colspan="7">Staff Nurse</td>
+                                                  <td colspan="4" style="text-align: center;">396</td>
+                                      </tr>
+                                      <tr>
+                                                 <td colspan="7">Statistician</td>
+                                                 <td colspan="4" style="text-align: center;">1</td>
+                                      </tr>
+                                      <tr>
+                                                 <td colspan="7">Steno cum Computer Operator</td>
+                                                 <td colspan="4" style="text-align: center;">2</td>
+                                      </tr>
+                                      <tr>
+                                                <td colspan="7">Steno Typist</td>
+                                                <td colspan="4" style="text-align: center;">18</td>
+                                      </tr>
+                                      <tr>
+                                                <td colspan="7">Store Keeper</td>
+                                                <td colspan="4" style="text-align: center;">20</td>
+                                      </tr>
+                                      <tr>
+                                                 <td colspan="7">Store Purchase Officer</td>
+                                                 <td colspan="4" style="text-align: center;">1</td>
+                                      </tr>
+                                       <tr>
+                                                 <td colspan="7">Store-Keeper cum clerk cum Computer Operator</td>
+                                                 <td colspan="4" style="text-align: center;">15</td>
+                                       </tr>
+                                        <tr>
+                                                  <td colspan="7">Sweepers</td>
+                                                  <td colspan="4" style="text-align: center;">29</td>
+                                        </tr>
+                                        <tr>
+                                                 <td colspan="7">T.B. &amp; Chest Diseases Health Visitors</td>
+                                                 <td colspan="4" style="text-align: center;">2</td>
+                                        </tr>
+                                        <tr>
+                                                   <td colspan="7">Tailor</td>
+                                                   <td colspan="4" style="text-align: center;">3</td>
                     </tr>
                    <tr>
                      <td colspan="7">Technical Assistant /Technician</td>
