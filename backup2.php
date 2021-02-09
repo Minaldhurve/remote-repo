@@ -29,7 +29,7 @@
                     <div class="tab-pane fade show active in" id="jnmc" role="tabpanel" aria-labelledby="jnmc-tab" aria-expanded="true">
                         <div class="card  my-5">
                             <div class="card-header bg-warning"><b>Dr. Abhay Mudey, Dean JNMC</b></div>
-                              <div class="card-body row">
+                            <div class="card-body row">
                                 <div class="col-lg-2 col-md-3 col-sm-4">
                                     <div class="text-center mb-3">
                                         <img src="https://newsite.dmimsu.edu.in/uploads/topics/16062923506637.png" class="img-fluid rounded-lg">
@@ -43,11 +43,9 @@
                                     <p><b>Mobile:</b> +919822367963</p>
                                     <p><b>Email:</b> deanjnmc@yahoo.com</p>
                                 </div>
-                              </div>
                             </div>
                         </div>
-
-                    <div class="tab-pane fade" id="v-board" role="tabpanel" aria-labelledby="v-board-tab">
+                        <div class="tab-pane fade" id="v-board" role="tabpanel" aria-labelledby="v-board-tab">
                             <h2 style="text-align: left; margin: 0in; line-height: normal; ">Details of Teaching Staff </h2>
                             <br>
                             <div class="table-responsive">
@@ -3921,8 +3919,8 @@
                                     </tfoot>
                                 </table>
                             </div>
-                    </div>
-                    <div class="tab-pane fade" id="v-planning" role="tabpanel" aria-labelledby="v-planning-tab">
+                        </div>
+                        <div class="tab-pane fade" id="v-planning" role="tabpanel" aria-labelledby="v-planning-tab">
                             <h2 style="text-align: left; margin: 0in; line-height: normal;">Details of Non-Teaching Staff</h2>
                             <br>
                             <div class="table-responsive">
@@ -4423,8 +4421,8 @@
                                     </tbody>
                                 </table>
                             </div>
-                    </div>
-                    <div class="tab-pane fade " id="v-quality" role="tabpanel" aria-labelledby="v-quality-tab">
+                        </div>
+                        <div class="tab-pane fade " id="v-quality" role="tabpanel" aria-labelledby="v-quality-tab">
                             <h3>Details of UG courses and their sanctioned intake by JNMC
                             </h3>
                             <br>
@@ -4492,8 +4490,8 @@
                                 <a href="frontEnd/pages/page/images/pdf/jnmc_pdf/PGFees2020-documents.pdf" target="_blank">Fee Structure of PG Degree and Diploma Courses for the academic year 2020-21</a><br>
                                 <a href="frontEnd/pages/page/images/pdf/jnmc_pdf/MBBS-FEE-STRUCTURE-20-21.pdf" target="_blank">Fee Structure of UG Courses (MBBS) for the academic year 2020-21</a>
                             </div>
-                    </div>
-                    <div class="tab-pane fade" id="v-acedemic" role="tabpanel" aria-labelledby="v-acedemic-tab">
+                        </div>
+                        <div class="tab-pane fade" id="v-acedemic" role="tabpanel" aria-labelledby="v-acedemic-tab">
                             <h3>Academic Council</h3>
                             <br>
                             <div class="table-responsive">
@@ -4520,8 +4518,8 @@
                                     </tbody>
                                 </table>
                             </div>
-                    </div>
-                    <div class="tab-pane fade" id="v-list_of_students" role="tabpanel" aria-labelledby="v-list_of_students-tab">
+                        </div>
+                        <div class="tab-pane fade" id="v-list_of_students" role="tabpanel" aria-labelledby="v-list_of_students-tab">
                             <h3>List of students admitted merit-wise category-wise (UG &amp; PG) for the current and last year</h3>
                             <br>
                             <table class="table table-bordered">
@@ -4563,8 +4561,8 @@
                                 <li><a href="frontEnd/pages/page/images/pdf/jnmc_pdf/List of students/Final-Roll-List-2014-15-Batch.pdf" target="_blank">List of UG Students admitted in the Session 2014-2015</a></li>
                                 <li><a href="frontEnd/pages/page/images/pdf/jnmc_pdf/List of students/Final-Roll-List-2013-14-Batch.pdf" target="_blank">List of UG Students admitted in the Session 2013-2014</a></li>
                             </ul>
-                    </div>
-                    <div class="tab-pane fade" id="v-research_publication" role="tabpanel" aria-labelledby="v-research_publication-tab">
+                        </div>
+                        <div class="tab-pane fade" id="v-research_publication" role="tabpanel" aria-labelledby="v-research_publication-tab">
                             <h3>Research publication during the last one year</h3>
                             <br>
                             <div class="table-responsive">
@@ -4608,8 +4606,8 @@
                                     </tbody>
                                 </table>
                             </div>
-                    </div>
-                    <div class="tab-pane fade" id="v-conferences" role="tabpanel" aria-labelledby="v-conferences-tab">
+                        </div>
+                        <div class="tab-pane fade" id="v-conferences" role="tabpanel" aria-labelledby="v-conferences-tab">
                             <h3>Details of any CME Programme, Conferences and academic activities (Jan 2019 to December 2019)</h3>
                             <br>
                             <div class="table-responsive">
@@ -4750,8 +4748,8 @@
                                     </tbody>
                                 </table>
                             </div>
-                    </div>
-                    <div class="tab-pane fade" id="v-awards" role="tabpanel" aria-labelledby="v-awards-tab">
+                        </div>
+                        <div class="tab-pane fade" id="v-awards" role="tabpanel" aria-labelledby="v-awards-tab">
                             <h3>Details of awards and achievement received by the students or faculty </h3>
                             <br>
                             <div class="table-responsive">
@@ -4762,8 +4760,8 @@
                                     <li><a href="frontEnd/pages/page/images/pdf/jnmc_pdf/awards_achievement/JNMC-AWARDS.pdf" target="_blank">Awards 2011-16</a></li>
                                 </ul>
                             </div>
-                    </div>
-                    <div class="tab-pane fade" id="v-affiliated_university" role="tabpanel" aria-labelledby="v-affiliated_university-tab">
+                        </div>
+                        <div class="tab-pane fade" id="v-affiliated_university" role="tabpanel" aria-labelledby="v-affiliated_university-tab">
                             <h3>Details of affiliated university VC and Registrar</h3>
                             <br>
                             <h5>VICE CHANCELLOR</h5>
@@ -4837,8 +4835,8 @@
                                     </thead>
                                 </table>
                             </div>
-                    </div>
-                    <div class="tab-pane fade" id="v-results" role="tabpanel" aria-labelledby="v-results-tab">
+                        </div>
+                        <div class="tab-pane fade" id="v-results" role="tabpanel" aria-labelledby="v-results-tab">
                             <h3>Results for last one year
                             </h3>
                             <br>
@@ -5414,8 +5412,8 @@
                                     </tbody>
                                 </table>
                             </div>
-                    </div>
-                    <div class="tab-pane fade" id="v-status" role="tabpanel" aria-labelledby="v-status-tab">
+                        </div>
+                        <div class="tab-pane fade" id="v-status" role="tabpanel" aria-labelledby="v-status-tab">
                             <h3>Detailed status of recognition of all the courses
                             </h3>
                             <br>
@@ -5454,6 +5452,7 @@
                                     <li>Candidates seeking admission to the MBBS/BDS course, who have passed the Higher Secondary Certificate (HSSC) examination/(10+2) or the Indian School Certificate (ISC) Examination or Central Board of Secondary Education (CBSE) Examination or any other examination equivalent to (10+2) HSSC examination of any recognized Board/University, from any school/college situated in India after 12 years of study with a minimum of 50% (i.e. 150 out of 300 marks) in the subjects of Physics, Chemistry, Biology and passes English subject, and shall qualify the NEET Examination conducted by Govt. of India.</li>
                                 </ul>
                             </div>
+                        </div>
                     </div>
                     <div class="tab-pane fade" id="v-clinical_material" role="tabpanel" aria-labelledby="v-clinical_material-tab">
                         <h3>Details of Clinical Material</h3>
